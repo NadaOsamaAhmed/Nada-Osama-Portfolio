@@ -1,0 +1,26 @@
+.navbar ul li a:hover{
+    color: #fd6901;
+}
+.nada{
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.home{
+    background-image:url(../images/eRvSq1.webp);
+    height: 500px;
+}
+#contact form button{
+    width: 200px;
+    
+}
+#contact form button:hover{
+    background-color: #fd6901;
+    
+}
+footer ul {
+    list-style: none;
+}
+
+.contact-info ul li:hover {
+    color: #fd6901 !important;
+}
